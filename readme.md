@@ -1,4 +1,4 @@
-# VidTube
+# VidTube - Backend
 
 VidTube is a backend project inspired by YouTube, built with Node.js, Express, and MongoDB. It supports core features such as user authentication, video management, comments, likes, playlists, subscriptions, and tweets.
 
@@ -70,6 +70,5 @@ npm run start
 
 The application exposes REST-style endpoints under the `src/routes` directory. You can test them using tools like Postman or Insomnia.
 
-## License
+## Author: Lucky Jaiswal
 
-This project is licensed under ISC.
