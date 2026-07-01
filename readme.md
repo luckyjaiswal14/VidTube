@@ -71,4 +71,3 @@ npm run start
 The application exposes REST-style endpoints under the `src/routes` directory. You can test them using tools like Postman or Insomnia.
 
 ## Author: Lucky Jaiswal
-
